@@ -15,7 +15,7 @@ It allows us to work with the View Controller and She discusses during her instr
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/jtmlock/MyMessageAppWin/blob/master/MyMessageApp.gif'' alt='App ScreenShot' />
+<img src='https://github.com/jtmlock/MyMessageAppWin/blob/master/MyMessageApp.gif' alt='App ScreenShot' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
